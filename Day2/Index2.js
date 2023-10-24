@@ -4,8 +4,6 @@ let arr1 = [1, 2, 3, 4, 5, 6, 7];
 
 // console.log([...arr, ...arr1]);
 
-// Rest Operator
-
 function fun(a, c, ...b) {
   console.log(a);
   console.log(c);
